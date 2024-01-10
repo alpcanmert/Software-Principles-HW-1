@@ -10,14 +10,12 @@ public class NumberRangePrinter {
         System.out.print("Enter the second number: ");
         int num2 = scanner.nextInt();
 
-        printOddNumbersInRange(num1, num2);
+        printNumbersInRange(num1, num2);
     }
 
-    private static void printOddNumbersInRange(int start, int end) {
+    private static void printNumbersInRange(int start, int end) {
         for (int i = start + 1; i < end; i++) {
-            if (i % 2 != 0) {
-                System.out.print(i + " ");
-            }
+            System.out.print(i + " ");
         }
         System.out.println(); // Add a newline for better formatting
     }
