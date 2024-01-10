@@ -7,3 +7,5 @@ Question (STEP 2)
 ls -a your-Software-Principles-HW/.git
 Question(Step 3)
 [Visit The Department of Software Engineering at Işık University](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi)
+Question(Step 4)
+It ignores compiled Java classes (*.class) and the target/ directory, which is commonly used for compiled code.
