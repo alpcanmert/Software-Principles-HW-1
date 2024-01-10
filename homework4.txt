@@ -9,7 +9,7 @@ Question(Step 3)
 [Visit The Department of Software Engineering at Işık University](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi)
 Question(Step 4)
 It ignores compiled Java classes (*.class) and the target/ directory, which is commonly used for compiled code.
-Question(Step 4)
+Question(Step 5)
 commit f17bbdf2d2b161602fb4911defbed733d504e235 (HEAD -> feature-1)
 Author: Yusuf Candır <yusufcandir30@gmail.com>
 Date:   Thu Jan 11 01:34:28 2024 +0300
@@ -56,4 +56,66 @@ under hmk1 feature branch
 NumberRangePrinter.java
 under hmk4 master branch
 nothing
+
+Question (step 6)
+commit fe9d934c00049ad1d53bdf981258b8d0daec4277 (HEAD -> feature-2)
+Author: Yusuf Candır <yusufcandir30@gmail.com>
+Date:   Thu Jan 11 01:45:46 2024 +0300
+
+    satisfying requirement change two
+
+commit 994a54d7d9a9093b400a903f57e717e29582e401 (master, feature-3)
+Merge: f0e98ea f17bbdf
+Author: Yusuf Candır <yusufcandir30@gmail.com>
+Date:   Thu Jan 11 01:42:11 2024 +0300
+
+    Changing the name of the ide
+
+commit f0e98ead73341537862b9555af9b2240beaff94d
+Author: Yusuf Candır <yusufcandir30@gmail.com>
+Date:   Thu Jan 11 01:39:02 2024 +0300
+
+    Question 5
+
+commit f17bbdf2d2b161602fb4911defbed733d504e235 (feature-1)
+Author: Yusuf Candır <yusufcandir30@gmail.com>
+Date:   Thu Jan 11 01:34:28 2024 +0300
+
+    satisfying requirement one
+
+commit e19e220492ab23948b536febd1d641e80910dac3
+Author: Yusuf Candır <yusufcandir30@gmail.com>
+Date:   Thu Jan 11 01:30:38 2024 +0300
+
+    question 4
+
+commit cc37c217e0042929a5a887e68819c8d28e4c5ad1
+Author: Yusuf Candır <yusufcandir30@gmail.com>
+Date:   Thu Jan 11 01:30:26 2024 +0300
+
+    setting up gitignore
+
+commit be53e3ec4713e160641eef4a4c192ccfb05f0162
+Author: Yusuf Candır <yusufcandir30@gmail.com>
+Date:   Thu Jan 11 01:27:40 2024 +0300
+
+    question 3
+
+commit 729e0788737de5f826d7ab702e2cf8ad313fc4c9
+Author: Yusuf Candır <yusufcandir30@gmail.com>
+Date:   Thu Jan 11 01:25:39 2024 +0300
+
+    question 2
+
+commit 78916771bbf0ef5ba9c1c761df857a41edd62f58
+Author: Yusuf Candır <yusufcandir30@gmail.com>
+Date:   Thu Jan 11 01:23:18 2024 +0300
+
+    question 1
+
+commit a1c1703357a51eb262374e8b3ed9e7909c3bc11f
+Author: Yusuf Candır <yusufcandir30@gmail.com>
+:
+
+
 
